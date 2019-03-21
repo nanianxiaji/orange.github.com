@@ -4,12 +4,12 @@
 # ---------------------------------------------------------------
 
 # Site
-title: NexT
-subtitle:
-description:
-author: John Doe
+title:夏天的风
+subtitle:随便写写
+description:向往像夏天的风一样自由，所以我也不知道你会在这里看到什么样的文字，心怀期待，无须强求。
+author: Orange
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
-language: en
+language: zh-Hans
 date_format: '%Y-%m-%d'
 
 # URL
